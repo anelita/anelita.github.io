@@ -1,5 +1,4 @@
 h1 {
-    background-color: #1a5fce;
     color: #eff2f7;
 }
 
@@ -12,4 +11,9 @@ body {
 #eins {
     color: #e51422;
     font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#titel {
+  color: #eff2f7;
+  background-color: #1a5fce;
 }
